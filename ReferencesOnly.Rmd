@@ -1,0 +1,9 @@
+---
+title: "References Only"
+output: pdf_document
+bibliography: CitationExport.bib
+csl: fisheries-research.csl
+nocite: '@*'
+---
+
+# Add all iterms to the bibliography

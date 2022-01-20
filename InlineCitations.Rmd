@@ -1,0 +1,28 @@
+---
+title: "Inline Citations"
+output: pdf_document
+bibliography: CitationExport.bib
+csl: fishery-bulletin.csl
+---
+
+# Introduction
+
+Xxxxxxxxxx [@Wilson2014], xxxxx [@Wilson2017; @Dichmont2016].
+
+# Methods
+
+Xxxxxxxxxxxxxxx [@Joppa2013].
+
+# Results
+
+Xxxxxxxxxxxxxxxxxxxx. Jakeman et al. ([-@Jakeman2006]) xxxxxx.
+
+# Discussion
+
+xxxxxxxxxxxxxxxxxxxxxx
+
+# Acknowledgements
+
+xxxxxxxxxxxxxxxxxxx
+
+# References
